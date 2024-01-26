@@ -1,4 +1,20 @@
 # LogoAGoGo
+Description 
+
+Make a quick and simple logo for your user profile using node.js
+
+
+Before Use 
+
+Install Node on your desktop and install it in visual code studio with the following inside the terminal 
+
+npm install 
+
+
+Demo
+
+https://youtu.be/8S70y_XsAz8?si=VhFZX7LgN_fviHu-
+
 
 User Story 
 
@@ -22,3 +38,7 @@ THEN an SVG file is created named `logo.svg`
 AND the output text "Generated logo.svg" is printed in the command line 
 WHEN I open the `logo.svg` file in a browser 
 THEN I am shown a 300x200 pixel image that matches the criteria I entered 
+
+Thank you to Kai, Carl, and the group for brain storming, help with node installtion, and assistance. 
+
+Thanks for youtube and google for walk throughs and help with trouble shooting. 
